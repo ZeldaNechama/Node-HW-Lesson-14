@@ -1,0 +1,23 @@
+[
+    {
+        "userId": "444444444",
+        "userName": "zalman",
+        "userPhone": "054848556",
+        "userEmail": "zalman@gmail.com",
+        "password": "$2b$10$lk2ZP8es22z7cN6hJdCeCuiFHM2O614kMj8zE0UDkHVtpNuUjkcFm"
+    },
+    {
+        "userId": "111111",
+        "userName": "esther",
+        "userPhone": "05295820",
+        "userEmail": "esther@gmail.com",
+        "password": "$2b$10$RSqIArinSqbRZdBzyW.oT.pfo4S7jjM.Rn.JBJLfSN4myPP1ulASW"
+    },
+    {
+        "userId": "3333333",
+        "userName": "gal",
+        "userPhone": "0355485505",
+        "userEmail": "gal@gmail.com",
+        "password": "$2b$10$SdvPEn2ODNHFa1w4i0fPUOcWBZOnngVoYgugkDpF.k1ynAnnmk08a"
+    }
+]

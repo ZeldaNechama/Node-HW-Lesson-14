@@ -1,0 +1,14 @@
+[
+    {
+        "categoryId": 111,
+        "categoryName": "appliances"
+    },
+    {
+        "categoryId": 222,
+        "categoryName": "books"
+    },
+    {
+        "categoryId": 333,
+        "categoryName": "cars"
+    }
+]

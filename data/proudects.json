@@ -1,0 +1,26 @@
+[
+    {
+        "proudectId": 1,
+        "category": "appliances",
+        "name": "refrigerator",
+        "amount": 5
+    },
+    {
+        "proudectId": 2,
+        "category": "appliances",
+        "name": "Air-Conditioner",
+        "amount": 15
+    },
+    {
+        "proudectId": 3,
+        "category": "books",
+        "name": "bookA",
+        "amount": 25
+    },
+    {
+        "proudectId": 4,
+        "category": "books",
+        "name": "bookB",
+        "amount": 15
+    }
+]
